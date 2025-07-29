@@ -1,6 +1,6 @@
-name: 功能建议
+name: 💡 功能建议
 description: 提出新功能建议或改进意见
-title: "[Feature] "
+title: "[功能建议] "
 labels: ["enhancement", "triage"]
 body:
   - type: markdown
